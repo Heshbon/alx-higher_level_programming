@@ -1,5 +1,5 @@
 0x02. Python - import & modules
 
-#Task projects on how to import functions from another file, and learn how to use imported functions.
+#In this project, I was able to learn how to use imported functions and import functions from another file.
 
-#How to create a module, learn how to use the built-in function dir() and using command line arguments with Python programs.
+#Learn how to use the buil-in function dir, create a module, and use command line arguments with Python programs.
