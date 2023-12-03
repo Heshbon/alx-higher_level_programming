@@ -16,17 +16,13 @@ if (__name__ == "__main__"):
     result = 0
 
     if operator == '+':
-        result = add(a, b)
-        print("{} + {} = {}".format(a, b, result))
+        print("{} + {} = {}".format(a, b, add(a, b)))
     elif operator == '-':
-        result = sub(a, b)
-        print("{} - {} = {}".format(a, b, result))
+        print("{} - {} = {}".format(a, b, sub(a, b)))
     elif operator == '*':
-        result = mul(a, b)
-        print("{} * {} = {}".format(a, b, result))
+        print("{} * {} = {}".format(a, b, mul(a, b)))
     elif operator == '/':
-        result = div(a, b)
-        print("{} / {} = {}".format(a, b, result))
+        print("{} / {} = {}".format(a, b, div(a, b)))
     else:
         print("Unknown operator. Available operators: +, -, * and /")
         exit(1)
