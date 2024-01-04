@@ -12,9 +12,9 @@ class Rectangle:
     def __str__(self):
         """print the rectangle with the character #"""
         string = ''
-        if self.__width == 0 or self.__height == 0:
+        if self.width == 0 or self.height == 0:
             return string
-        string += ('#' * self.__width + '\n') * self.__height
+        string += ('#' * self.width + '\n') * self.height
         return string[::-1]
 
     def __repr__(self):
