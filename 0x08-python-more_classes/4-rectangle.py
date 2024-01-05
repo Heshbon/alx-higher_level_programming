@@ -14,8 +14,9 @@ class Rectangle:
         string = ''
         if self.width == 0 or self.height == 0:
             return string
-        string += ('#' * self.width + '\n') * self.height
-        return string
+        for _ in range(self.height):
+            string += '#' * self.width + '\n'
+        return string.rstrip('\n')
 
     def __repr__(self):
         """return a string representation of the rectangle"""
