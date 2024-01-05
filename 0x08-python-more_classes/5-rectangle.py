@@ -19,12 +19,13 @@ class Rectangle:
         if self.width == 0 or self.height == 0:
             return string
         for _ in range(self.height):
-            string += '#' * self.width + '\n'
-        return string.rstrip('\n')
+            string += ('#' * self._width + '\n') * self._height
+            return string[::-1]
 
     def __repr__(self):
         """return a string representation of the rectangle"""
-        return f'Rectangle({self.width}, {self.height})'
+        return ('Rectangle(' + str(self.__width) + ', ' +
+                str(self.__height) + ')')
 
     @property
     def width(self):
@@ -56,10 +57,10 @@ class Rectangle:
 
     def area(self):
         """returns the rectangle area"""
-        return self.width * self.height
+        return self.__width * self.__height
 
     def perimeter(self):
         """returns the rectangle perimeter"""
-        if self.width == 0 or self.height == 0:
+        if self.__width == 0 or self.__height == 0:
             return 0
-        return (self.width + self.height) * 2
+        return (self.__width + self.__height) * 2
