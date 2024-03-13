@@ -3,4 +3,4 @@
 SELECT `score`, `name`
 FROM `second_table`
 WHERE `name` != ""
-OREDR BY `score` DESC
+ORDER BY `score` DESC
