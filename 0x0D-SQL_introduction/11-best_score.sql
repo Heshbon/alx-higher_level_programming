@@ -2,5 +2,5 @@
 -- Records are ordered from top first to bottom score.
 SELECT `score`, `name`
 FROM `second_table`
-WHERE `score` => 10
+WHERE `score` >= 10
 ORDER BY `score` DESC;
