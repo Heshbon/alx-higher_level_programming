@@ -1,4 +1,6 @@
 #!/usr/bin/node
-for (const line of ['C is fun', 'Python is cool', 'Javascript is amazing']) {
+const myVar = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
+
+myVar.forEach((line) => {
   console.log(line);
-}
+});
