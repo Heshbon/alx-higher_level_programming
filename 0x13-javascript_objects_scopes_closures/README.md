@@ -1,3 +1,5 @@
+0x13. JavaScript - Objects, Scopes and Closures.
+
 #In this project I learned the spects of JS language - scope, Modern JS, closures and this/Self. I practiced working with objects and ES6-style classes.
 
 
