@@ -115,3 +115,30 @@ Tasks
 
 	13-add.js: Javascript function that returns the addition of 2 integers.
 
+13. Add file
+
+	13-add.js: Javascript function that returns the addition of 2 integers.
+
+14. Const or not const
+
+	100-let_me_const.js: Javascript file that modifies the value of myVar to 333.
+
+	#!/usr/bin/node
+
+	myVar = 89;
+
+	require('./100-let_me_const')
+
+	console.log(myVar);
+
+15. Call me Moby
+
+	101-call_me_moby.js: Javascript function that executes x times a function.
+
+	Prototype: function (x, theFunction).
+
+16. Add me maybe
+
+	102-add_me_maybe.js: Javascript function that increments and calls a function.
+
+	Prototype: function (number, theFunction).
