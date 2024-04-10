@@ -115,9 +115,6 @@ Tasks
 
 	13-add.js: Javascript function that returns the addition of 2 integers.
 
-13. Add file
-
-	13-add.js: Javascript function that returns the addition of 2 integers.
 
 14. Const or not const
 
