@@ -1,11 +1,11 @@
 #!/usr/bin/node
 const dict = require('./101-data.js').dict;
-let new_dict = {};
+let newdict = {};
 for (let key in dict) {
-  if (new_dict[dict[key]] === undefined) {
-    new_dict[dict[key]] = [key];
+  if (newdict[dict[key]] === undefined) {
+    newdict[dict[key]] = [key];
   } else {
-    new_dict[dict[key]].push(key);
+    newdict[dict[key]].push(key);
   }
 }
-console.log(new_dict);
+console.log(newdict);
