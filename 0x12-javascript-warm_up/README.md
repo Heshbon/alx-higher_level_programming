@@ -7,9 +7,9 @@ Tasks
 
 0. First constant, first print
 
-	0-javascript_is_amazing.js: A script that prints “JavaScript is amazing."
+		0-javascript_is_amazing.js: A script that prints “JavaScript is amazing."
 
-	Create a constant variable called myVar with the value “JavaScript is amazing”
+		Create a constant variable called myVar with the value “JavaScript is amazing”
 
 1. 3 languages
 
@@ -92,14 +92,23 @@ Tasks
 	12-object.js: Update the script to replace the value 12 with 89.
 
 #!/usr/bin/node
+
 const myObject = {
+
   type: 'object',
+
   value: 12
+
 };
+
 console.log(myObject);
+
 /*
+
 YOUR CODE HERE
+
 */
+
 console.log(myObject);
 
 13. Add file
