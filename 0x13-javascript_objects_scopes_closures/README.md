@@ -71,13 +71,3 @@ Tasks
 	100-map.js: Javascript that imports an array and computes a new array.
 
 	Print both the initial list and the new list.
-
-12. Sorted occurences
-
-	101-sorted.js: Javascript that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence.
-
-	Print the new dictionary at the end.
-
-13. Concat files
-
-	102-concat.js: Javascript that concats 2 files.
