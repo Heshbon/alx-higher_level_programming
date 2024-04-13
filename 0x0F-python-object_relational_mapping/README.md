@@ -1,4 +1,4 @@
-## 0x0F. Python - Object-relational mapping
+# 0x0F. Python - Object-relational mapping
 
 In this project, I learned about Python - Object-relational mapping in database scripting. I became familiar with using MySQLdb and SQLAlchemy to query, create, edit, and delete tables in MySQL.
 
