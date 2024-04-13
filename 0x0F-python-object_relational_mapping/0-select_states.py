@@ -9,16 +9,16 @@ if __name__ == '__main__':
         db = mysql.connect(host='localhost', port=3306, user=argv[1],
                            passwd=argv[2], db=argv[3])
     except Exception:
-        print('Failed to connect to the database')
+        print("Usage: <mysql username> <mysql password> <database name>")
         exit(0)
 
     c = db.cursor()
 
-    c.execute("SELECT * FROM states ORDER BY id ASC;")
+    c.execute("SELECT * FROM states ORDER BY states.id;")
 
-    value_query = c.fetchall()
+    result = c.fetchall()
 
-    for row in value_query:
+    for row in result:
         print(row)
 
     c.close()
