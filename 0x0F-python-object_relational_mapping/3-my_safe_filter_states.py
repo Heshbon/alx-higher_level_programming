@@ -8,7 +8,6 @@ if __name__ == '__main__':
     import MySQLdb as mysql
     import re
 
-    # Code not executed when imported
     if (len(argv) != 5):
         print('Usage: username, password, database name, state name')
         exit(1)
@@ -29,7 +28,7 @@ if __name__ == '__main__':
     c = db.cursor()
 
     c.execute("SELECT * FROM states \
-                    WHERE name = '{:s}' ORDER BY states.id ASC;".format(searched))
+                    WHERE name = '{:s}' ORDER BY id ASC;".format(searched))
 
     sql_query = c.fetchall()
 
