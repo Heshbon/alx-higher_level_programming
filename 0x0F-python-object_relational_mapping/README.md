@@ -4,7 +4,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 Tasks 📃
 
-**0. Get all states**
+# 0. Get all states
 
 	0-select_states.py: Python script that lists all states from the database hbtn_0e_0_usa.
 
