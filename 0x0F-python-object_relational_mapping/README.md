@@ -108,11 +108,13 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 13. Delete states
 
+
 + <u>[13-model_state_delete_a.py](https://github.com</u>: Python script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa.
 
 + Usage:`./13-model_state_delete_a.py <mysql username> <mysql password> <database name>.`
 
 # 14. Cities in state
+
 
 + <u>[model_city.py](https://github.com</u>: Python file that contains the class definition of a City.
 
