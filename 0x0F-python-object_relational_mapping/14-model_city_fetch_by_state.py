@@ -19,9 +19,9 @@ if __name__ == "__main__":
     Session = sessionmaker(bind=engine)
     session = Session()
 
-    result = session.query(State, City.id, City).filter(
+    output = session.query(State, City.id, City).filter(
         City.state_id == State.id).order_by(City.id).all()
 
-    for line in result:
+    for line in output:
         print(f'{line.State.name}: ({line.id}) {line.City.name}')
     session.close()
