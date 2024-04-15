@@ -9,7 +9,7 @@ if __name__ == "__main__":
     from sys import argv
 
     if (len(argv) != 4):
-        print('Usage: username, password database_name')
+        print('Usage: username, password, database_name')
         exit(1)
 
     engine = create_engine('mysql+mysqldb://{}:{}@localhost/{}'.format(
