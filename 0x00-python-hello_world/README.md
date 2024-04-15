@@ -14,7 +14,7 @@ In this project, I started practicing using the interpreter, printing text and v
 
 # 2. Hello, print
 
-  +  <u>[https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x00-python-hello_world/2-print.py</u>: Python script that prints exactly "Programming is like building a multilingual puzzle,
+  +  <u>[2-print.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x00-python-hello_world/2-print.py)</u>: Python script that prints exactly "Programming is like building a multilingual puzzle,
 
 followed by a new line.
 
