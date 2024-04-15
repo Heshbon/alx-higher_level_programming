@@ -14,7 +14,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 1. Filter states
 
-+ <u>[1-filter_states.py](https://github.com)</u>: Python script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa.
++ <u>[1-filter_states.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/1-filter_states.py)</u>: Python script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa.
 
   + Results are sorted in ascending order by states.id.
 
@@ -22,7 +22,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 2. Filter states by user input
 
-+ <u>[2-my_filter_states.py](https://github.com)</u>: Python script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa.
++ <u>[2-my_filter_states.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/2-my_filter_states.py)</u>: Python script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa.
 
   + Results are sorted in ascending order by states.id.
 
@@ -30,7 +30,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 3. SQL Injection...
 
-+ <u>[3-my_safe_filter_states.py](https://github.com)</u>: Python script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa.
++ <u>[3-my_safe_filter_states.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/3-my_safe_filter_states.py))</u>: Python script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa.
 
   + Results are sorted in ascending order by states.id.
 
@@ -40,7 +40,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 4. Cities by states
 
-+ <u>[4-cities_by_state.py](https://github.com)</u>: Python script that lists all cities from the database hbtn_0e_4_usa.
++ <u>[4-cities_by_state.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/4-cities_by_state.py)</u>: Python script that lists all cities from the database hbtn_0e_4_usa.
 
   + Results are sorted in ascending order by cities.id.
 
@@ -48,7 +48,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 5. All cities by state
 
-+ <u>[5-filter_cities.py](https://github.com)</u>: Python script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa.
++ <u>[5-filter_cities.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/5-filter_cities.py)</u>: Python script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa.
 
   + Results are sorted in ascending order by cities.id.
 
@@ -56,11 +56,11 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 6. First state model
 
-  + <u>[model_state.py](https://github.com)</u>: Python file that contains the class definition of a State and an instance Base = declarative_base().
+  + <u>[model_state.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/model_state.py)</u>: Python file that contains the class definition of a State and an instance Base = declarative_base().
 
 # 7. All states via SQLAlchemy
 
-+ <u>[7-model_state_fetch_all.py](https://github.com)</u>: Python script that lists all State objects from the database hbtn_0e_6_usa.
++ <u>[7-model_state_fetch_all.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/7-model_state_fetch_all.py)</u>: Python script that lists all State objects from the database hbtn_0e_6_usa.
 
   + Results are sorted in ascending order by states.id.
 
@@ -68,7 +68,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 8. First state
 
-+ <u>[8-model_state_fetch_first.py](https://github.com)</u>: Python script that prints the first State object from the database hbtn_0e_6_usa.
++ <u>[8-model_state_fetch_first.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/8-model_state_fetch_first.py)</u>: Python script that prints the first State object from the database hbtn_0e_6_usa.
 
   + If the table states is empty, print Nothing.
 
@@ -76,7 +76,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 9. Contains `a`
 
-+ <u>[9-model_state_filter_a.py](https://github.com)</u>: Python script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa.
++ <u>[9-model_state_filter_a.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/9-model_state_filter_a.py)</u>: Python script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa.
 
   + Results are sorted in ascending order by states.id.
 
@@ -84,7 +84,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 10. Get a state
 
-+ <u>[10-model_state_my_get.py](https://github.com)</u>: Python script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa.
++ <u>[10-model_state_my_get.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/10-model_state_my_get.py)</u>: Python script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa.
 
   + If no state searched for, display Not found.
 
@@ -94,7 +94,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 11. Add a new state
 
-+ <u>[11-model_state_insert.py](https://github.com)</u>: Python script that adds the State object “Louisiana” to the database hbtn_0e_6_usa.
++ <u>[11-model_state_insert.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/11-model_state_insert.py)</u>: Python script that adds the State object “Louisiana” to the database hbtn_0e_6_usa.
 
   + Print the new states.id after creation.
 
@@ -102,18 +102,17 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 12. Update a state
 
-+ <u>[12-model_state_update_id_2.py](https://github.com)</u>: Python script that changes the name of a State object from the database hbtn_0e_6_usa.
++ <u>[12-model_state_update_id_2.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/12-model_state_update_id_2.py)</u>: Python script that changes the name of a State object from the database hbtn_0e_6_usa.
 
   + Usage:`./12-model_state_update_id_2.py <mysql usernam> <mysql password> <database name>.`
 
 # 13. Delete states
 
-+ <u>[13-model_state_delete_a.py](https://github.com)</u>: Python script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa.
++ <u>[13-model_state_delete_a.py]( https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/13-model_state_delete_a.py)</u>: Python script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa.
 
   + Usage:`./13-model_state_delete_a.py <mysql username> <mysql password> <database name>.`
 
 # 14. Cities in state
-
 
 + <u>[model_city.py](https://github.com)</u>: Python file that contains the class definition of a City.
 
