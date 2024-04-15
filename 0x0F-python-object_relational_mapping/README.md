@@ -6,7 +6,7 @@ In this project, I learned about Python - Object-relational mapping in database 
 
 # 0. Get all states
 
-+ <u>[0-select_states.py](https://github.com)</u>: Python script that lists all states from the database hbtn_0e_0_usa.
++ [u<0-select_states.py: Python script that lists all states from the database hbtn_0e_0_usa>](https://github.com/Heshbon/holbertonschool-higher_level_programming/blob/main/0x0D-SQL_introduction/0-select_states.py): Python script that lists all states from the database hbtn_0e_0_usa.
 
   + Results are sorted in ascending order by states.id.
 
