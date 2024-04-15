@@ -1,5 +1,7 @@
 # Python - Hello, World.
 
+In this project, I started practicing using the interpreter, printing text and variables, and indexing and slicing strings in Python.
+
 # Tasks 📃
 
 # 0. Run Python file
@@ -70,9 +72,9 @@ followed by a new line.
 
 # 11. Hello, write
 
-  + <u>[100-write.py](https://github.com/Heshbon)</u>: Python script that prints exactly and that piece of art is useful
+  + <u>[100-write.py](https://github.com/Heshbon)</u>: Python script that prints exactly and
 
-- Dora Korpar, 2015-10-19, followed by a new line.
+that piece of art is useful- Dora Korpar, 2015-10-19, followed by a new line.
 
   + Exit with the status code 1.
 
