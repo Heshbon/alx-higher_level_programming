@@ -36,7 +36,7 @@ In this project I learned the spects of JS language - scope, Modern JS, closures
 
 # 5. Square #0
 
-  - <u>[5-square.js]https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/5-square.js)</u>: A class Square that defines a square and inherits from Rectangle of 4-rectangle.js.
+  - <u>[5-square.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/5-square.js)</u>: A class Square that defines a square and inherits from Rectangle of 4-rectangle.js.
 
 	- Constructor must take 1 argument: size.
 
