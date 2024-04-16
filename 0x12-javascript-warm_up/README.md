@@ -77,7 +77,7 @@ but by using an array of string and a loop.
 
 # 9. Add
 
-  +  <u>[9-add.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/9-add.js(</u>: Javascript that prints the addition of 2 integers.
+  +  <u>[9-add.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/9-add.js)</u>: Javascript that prints the addition of 2 integers.
 
   +  Prototype: function add(a, b).
 
