@@ -1,141 +1,144 @@
-0x12. JavaScript - Warm up
+# JavaScript - Warm up.
 
 This is my first JavaScript project I completed at ALX Africa. Tasks involved writing various introductory-level JavaScript scripts.
 
 
-Tasks
+# Tasks 📃.
 
-0. First constant, first print
+# 0. First constant, first print
 
-	0-javascript_is_amazing.js: A script that prints “JavaScript is amazing."
+  +  <u>[0-javascript_is_amazing.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/0-javascript_is_amazing.js)</u>: A script that prints “JavaScript is amazing."
 
-	Create a constant variable called myVar with the value “JavaScript is amazing”
+  +  Create a constant variable called myVar with the value “JavaScript is amazing”.
 
-1. 3 languages
+# 1. 3 languages
 
-	1-multi_languages.js: JavaScript that prints 3 lines.
+  +  <u>[1-multi_languages.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/1-multi_languages.js)</u>: JavaScript that prints 3 lines.
 
-	The first line: “C is fun”
+  +  The first line: “C is fun”.
+	
+  +  The second line: “Python is cool”.
 
-	The second line: “Python is cool”
+  +  The third line: “JavaScript is amazing”.
 
-	The third line: “JavaScript is amazing”
+# 2. Arguments
 
-2. Arguments
+  +  <u>[2-arguments.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/2-arguments.js)</u>: A Javascript that prints a message depending of the number of arguments passed.
 
-	2-arguments.js: A Javascript that prints a message depending of the number of arguments passed.
+  +  If no arguments are passed to the script, print “No argument”.
 
-	If no arguments are passed to the script, print “No argument”
+  +  If only one argument is passed to the script, print “Argument found”.
 
-	If only one argument is passed to the script, print “Argument found”
+  +  Otherwise, print “Arguments found”.
 
-	Otherwise, print “Arguments found”
+# 3. Value of my argument
 
-3. Value of my argument
+  +  <u>[3-value_argument.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/3-value_argument.js)</u>: A Javascript that prints the first argument passed to it.
 
-	3-value_argument.js: A Javascript that prints the first argument passed to it.
+  +  If no arguments are passed to the script, print “No argument”.
 
-	If no arguments are passed to the script, print “No argument”
+# 4. Create a sentence
 
-4. Create a sentence
+  +  <u>[4-concat.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/4-concat.js)</u>: A script that prints two arguments passed to it.
 
-	4-concat.js: A script that prints two arguments passed to it.
+# 5. An Integer
 
-5. An Integer
+  +  <u>[5-to_integer.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/5-to_integer.js)</u>: A Javascript that prints My number: `<first argument converted in integer>` if the first argument 
 
-	5-to_integer.js: A Javascript that prints My number: <first argument converted in integer> if the first argument can be converted to an integer.
+can be converted to an integer.
 
-	If the argument can’t be converted to an integer, print “Not a number”
+  +  If the argument can’t be converted to an integer, print “Not a number”.
 
-6. Loop to languages
+# 6. Loop to languages
 
-	6-multi_languages_loop.js: A Javascript that prints 3 lines: (like 1-multi_languages.js) but by using an array of string and a loop.
+  +  <u>[6-multi_languages_loop.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/6-multi_languages_loop.js)</u>: A Javascript that prints 3 lines:`(like 1-multi_languages.js)`
 
-	The first line: “C is fun”
+but by using an array of string and a loop.
 
-	The second line: “Python is cool”
+  +  The first line: “C is fun”.
 
-	The third line: “JavaScript is amazing”
+  +  The second line: “Python is cool”.
 
-7. I love C
+  +  The third line: “JavaScript is amazing”.
 
-	7-multi_c.js: Javascript that prints x times “C is fun”
+# 7. I love C
 
-	If the first argument can’t be converted to an integer, print “Missing number of occurrences
+  +  <u>[7-multi_c.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/7-multi_c.js)</u>: Javascript that prints x times “C is fun”
 
-8. Square
+  +  If the first argument can’t be converted to an integer, print “Missing number of occurrences.
 
-	8-square.js: A Javascript that prints a square.
+# 8. Square
 
-	If the first argument can’t be converted to an integer, print “Missing size”
+  +  <u>[8-square.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/8-square.js)</u>: A Javascript that prints a square.
 
-	Use the character X to print the square.
+  +  If the first argument can’t be converted to an integer, print “Missing size”.
 
-9. Add
+  +  Use the character X to print the square.
 
-	9-add.js: Javascript that prints the addition of 2 integers.
+# 9. Add
 
-	Prototype: function add(a, b).
+  +  <u>[9-add.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/9-add.js(</u>: Javascript that prints the addition of 2 integers.
 
-10. Factorial
+  +  Prototype: function add(a, b).
 
-	10-factorial.js: Javascript that computes and prints a factorial.
+# 10. Factorial
 
-11. Second biggest!
+  +  <u>[10-factorial.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/10-factorial.js)</u>: Javascript that computes and prints a factorial.
 
-	11-second_biggest.js: A Javascript that searches the second biggest integer in the list of arguments.
+# 11. Second biggest!
 
-	If no arguments are passed or the number of arguments is 1, prints 0.
+  +  <u>[11-second_biggest.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/11-second_biggest.js)</u>: A Javascript that searches the second biggest integer in the list of arguments.
 
-12. Object
+  +  If no arguments are passed or the number of arguments is 1, prints 0.
 
-	12-object.js: Update the script to replace the value 12 with 89.
+# 12. Object
 
-		#!/usr/bin/node
+  +  <u>[12-object.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/12-object.js)</u>: Update the script to replace the value 12 with 89.
 
-		const myObject = {
+`#!/usr/bin/node`
 
-  		type: 'object',
+const myObject = {
 
-  		value: 12
+type: 'object',
 
-		};
+value: 12
 
-		console.log(myObject);
+};
+console.log(myObject);
 
-		/*
+/*
 
-		YOUR CODE HERE
+YOUR CODE HERE
 
-		*/
+*/
 
-		console.log(myObject);
+console.log(myObject);
 
-13. Add file
+# 13. Add file
 
-	13-add.js: Javascript function that returns the addition of 2 integers.
+  +  <u>[13-add.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/13-add.js)</u>: Javascript function that returns the addition of 2 integers.
 
 
-14. Const or not const
+# 14. Const or not const
 
-	100-let_me_const.js: Javascript file that modifies the value of myVar to 333.
+  +  <u>[100-let_me_const.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/100-let_me_const.js)</u>: Javascript file that modifies the value of myVar to 333.
 
-		#!/usr/bin/node
+`#!/usr/bin/node`
 
-		myVar = 89;
+myVar = 89;
 
-		require('./100-let_me_const')
+require('./100-let_me_const')
 
-		console.log(myVar);
+console.log(myVar);
 
-15. Call me Moby
+# 15. Call me Moby
 
-	101-call_me_moby.js: Javascript function that executes x times a function.
+  +  <u>[101-call_me_moby.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/101-call_me_moby.js)</u>: Javascript function that executes x times a function.
 
-	Prototype: function (x, theFunction).
+  +  Prototype: function (x, theFunction).
 
-16. Add me maybe
+# 16. Add me maybe
 
-	102-add_me_maybe.js: Javascript function that increments and calls a function.
+  +  <u>[102-add_me_maybe.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/102-add_me_maybe.js)</u>: Javascript function that increments and calls a function.
 
-	Prototype: function (number, theFunction).
+  +  Prototype: function (number, theFunction).
