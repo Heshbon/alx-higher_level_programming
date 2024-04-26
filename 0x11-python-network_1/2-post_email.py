@@ -13,6 +13,6 @@ if __name__ == "__main__":
     data = urllib.parse.urlencode(item).encode("utf-8")
 
     # Creates a POST request
-    request = urllib.request.Request(url, data)
-    with urllib.request.urlopen(request) as response:
+    req = urllib.request.Request(url, data)
+    with urllib.request.urlopen(req) as response:
         print(response.read().decode("utf-8"))
