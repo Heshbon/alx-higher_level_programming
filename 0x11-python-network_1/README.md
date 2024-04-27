@@ -22,7 +22,7 @@ For this project, I learned how to send and receive HTTP messages to URLs using 
 
 # 4. What's my status? #1
 
-  + <u>[4-hbtn_status.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x11-python-network_1/4-hbtn_status.py)</u>: `Python script that fetches https://alx-intranet.hbtn.io/status.`
+  + <u>[4-hbtn_status.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x11-python-network_1/4-hbtn_status.py)</u>: Python script that fetches `https://alx-intranet.hbtn.io/status.`
 
   + Use the package requests.
 
