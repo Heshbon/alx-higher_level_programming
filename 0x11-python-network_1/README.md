@@ -6,7 +6,7 @@ For this project, I learned how to send and receive HTTP messages to URLs using 
 
 # 0. What's my status? #0
 
-  + <u>[0-hbtn_status.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x11-python-network_1/0-hbtn_status.py)</u>: `Python script that fetches https://alx-intranet.hbtn.io/status.`
+  + <u>[0-hbtn_status.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x11-python-network_1/0-hbtn_status.py)</u>: Python script that fetches `https://alx-intranet.hbtn.io/status.`
 
 # 1. Response header value #0
 
@@ -22,7 +22,7 @@ For this project, I learned how to send and receive HTTP messages to URLs using 
 
 # 4. What's my status? #1
 
-  + <u>[4-hbtn_status.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x11-python-network_1/4-hbtn_status.py)</u>: Python script that fetches https://alx-intranet.hbtn.io/status
+  + <u>[4-hbtn_status.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x11-python-network_1/4-hbtn_status.py)</u>: `Python script that fetches https://alx-intranet.hbtn.io/status.`
 
   + Use the package requests.
 
@@ -40,7 +40,7 @@ For this project, I learned how to send and receive HTTP messages to URLs using 
 
 # 8. Search API
 
-  + <u>[8-json_api.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x11-python-network_1/8-json_api.py)</u>: Python script that takes in a letter and sends a POST request to http://0.0.0.0:5000/search_user.
+  + <u>[8-json_api.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x11-python-network_1/8-json_api.py)</u>: `Python script that takes in a letter and sends a POST request to http://0.0.0.0:5000/search_user.`
 
 	+ The letter must be sent in the variable q.
 
