@@ -3,10 +3,5 @@
 
 
 def lookup(obj):
-    """returns attributes
-        Args:
-            obj: object
-        Return:
-            list: list attributes
-    """
+    """returns attributes"""
     return dir(obj)
