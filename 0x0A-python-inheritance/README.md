@@ -80,7 +80,7 @@ In this project, I gained knowledge of Python class inheritance. While practicin
 
 # 11. Square #2
 
-  + <u>[11-square.py]()</u>: Python class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py).
+  + <u>[11-square.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0A-python-inheritance/11-square.py)</u>: Python class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py).
 
   + The area() method must be implemented.
 
