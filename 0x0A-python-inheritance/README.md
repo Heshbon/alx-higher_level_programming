@@ -38,7 +38,7 @@ In this project, I gained knowledge of Python class inheritance. While practicin
 
 # 7. Integer validator
 
-  + <u>[7-base_geometry.py]()</u>: Python class BaseGeometry `(based on 6-base_geometry.py)`.
+  + <u>[7-base_geometry.py](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x0A-python-inheritance/7-base_geometry.py)</u>: Python class BaseGeometry `(based on 6-base_geometry.py)`.
 
   + Public instance method: def area(self): that raises an Exception with the message area() is not implemented.
 
