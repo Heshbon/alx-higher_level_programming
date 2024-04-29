@@ -42,7 +42,7 @@ list of projects are as follows:
 
 # Author ✒️
 
-  +  [Hesbon Kipchirchir](https://github.com/Heshbon)
+  +  Hesbon Kipchirchir <[Heshbon](https://github.com/Heshbon)>
 
 
 # Acknowledgements 🙏
