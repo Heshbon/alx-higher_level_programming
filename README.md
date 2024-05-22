@@ -38,6 +38,8 @@ list of projects are as follows:
 
   +  <u>[0x13. JavaScript - Objects, Scopes and Closures](https://github.com/Heshbon/alx-higher_level_programming/tree/master/0x13-javascript_objects_scopes_closures)</u>
 
+  + <u>[0x14-javascript-web_scraping](https://github.com/Heshbon/alx-higher_level_programming/tree/master/0x14-javascript-web_scraping)</u>
+
 
 
 # Author ✒️
