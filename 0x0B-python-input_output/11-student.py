@@ -10,7 +10,8 @@ class Student:
         self.age = age
 
     def to_json(self, attrs=None):
-        """If attrs is a list of strings, only attribute names contained
+        """retrieves a dictionary representation of a Student
+        If attrs is a list of strings, only attribute names contained
         in this list must be retrieved otherwise retrieve all
         """
         try:
@@ -26,3 +27,9 @@ class Student:
             if key in attrs:
                 my_name[key] = a
         return my_name
+
+    def reload_from_json(self, json):
+        """replaces all attributes of the Student instance"""
+        for key, a in json.items():
+            if hasattr(self, key):
+                setattr(self, key, a)

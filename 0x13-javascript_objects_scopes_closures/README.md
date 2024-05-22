@@ -1,73 +1,71 @@
-0x13. JavaScript - Objects, Scopes and Closures.
+# JavaScript - Objects, Scopes and Closures.
 
-#In this project I learned the spects of JS language - scope, Modern JS, closures and this/Self. I practiced working with objects and ES6-style classes.
+In this project I learned the spects of JS language - scope, Modern JS, closures and this/Self. I practiced working with objects and ES6-style classes.
 
+# Tasks
 
-Tasks
+# 0. Rectangle #0
 
-0. Rectangle #0
+  - <u>[0-rectangle.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/0-rectangle.js)</u>: An empty class Rectangle that defines a rectangle.
 
-	0-rectangle.js: An empty class Rectangle that defines a rectangle.
+# 1. Rectangle #1
 
-1. Rectangle #1
+  - <u>[1-rectangle.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/1-rectangle.js)</u>: A class Rectangle that defines a rectangle.
 
-	1-rectangle.js: A class Rectangle that defines a rectangle.
+	- Constructor that initializes instance attributes width and height with given parameters w and h.
 
-	    Constructor that initializes instance attributes width and height with given parameters w and h.
+# 2. Rectangle #2
 
-2. Rectangle #2
+  - <u>[2-rectangle.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/2-rectangle.js)</u>: A class Rectangle that defines a rectangle.
 
-	2-rectangle.js: A class Rectangle that defines a rectangle.
+	- If provide w and h are less than or equal to 0, creates an empty object.
 
-	    If provide w and h are less than or equal to 0, creates an empty object.
+# 3. Rectangle #3
 
-3. Rectangle #3
+  - <u>[3-rectangle.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/3-rectangle.js)</u>: A class Rectangle that defines a rectangle.
 
-	3-rectangle.js: A class Rectangle that defines a rectangle.
+	- An instance method called print() that prints the rectangle using the character X.
 
-	    An instance method called print() that prints the rectangle using the character X.
+# 4. Rectangle #4
 
-4. Rectangle #4
+  - <u>[4-rectangle.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/4-rectangle.js)</u>: A class Rectangle that defines a rectangle.
 
-	4-rectangle.js: A class Rectangle that defines a rectangle.
+	- An instance method called rotate() that exchanges the width and the height of the rectangle.
 
-	    An instance method called rotate() that exchanges the width and the height of the rectangle.
+	- An instance method called double() that multiples the width and the height of the rectangle by 2.
 
-	    An instance method called double() that multiples the width and the height of the rectangle by 2.
+# 5. Square #0
 
-5. Square #0
+  - <u>[5-square.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/5-square.js)</u>: A class Square that defines a square and inherits from Rectangle of 4-rectangle.js.
 
-	5-square.js: A class Square that defines a square and inherits from Rectangle of 4-rectangle.js.
+	- Constructor must take 1 argument: size.
 
-	    Constructor must take 1 argument: size.
+# 6. Square #1
 
+  - <u>[6-square.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/6-square.js)</u>: A class Square that defines a square and inherits from Square of 5-square.js.
 
-6. Square #1
+	- If c is undefined, use the character X.
 
-	6-square.js: A class Square that defines a square and inherits from Square of 5-square.js.
+# 7. Occurrences
 
-	    If c is undefined, use the character X.
+  - <u>[7-occurrences.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/7-occurrences.js)</u>: JS function that returns the number of occurrences in a list
 
-7. Occurrences
+# 8. Esrever
 
-	7-occurrences.js: JS function that returns the number of occurrences in a list
+  - <u>[8-esrever.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/8-esrever.js)</u>: JS function that returns the reversed version of a list.
 
-8. Esrever
+# 9. Log me
 
-	8-esrever.js: JS function that returns the reversed version of a list.
+  - <u>[9-logme.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/9-logme.js)</u>: JS function that prints the number of arguments already printed and the new argument value.
 
-9. Log me
+	- `Output: <number arguments already printed>: <current argument value>`.
 
-	9-logme.js: JS function that prints the number of arguments already printed and the new argument value.
+# 10. Number conversion
 
-	    Output: <number arguments already printed>: <current argument value>.
+  - <u>[10-converter.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/10-converter.js)</u>: JS function that converts a number from base 10 to another base passed as argument.
 
-10. Number conversion
+# 11. Factor index
 
-	10-converter.js: JS function that converts a number from base 10 to another base passed as argument.
+  - <u>[100-map.js](https://github.com/Heshbon/alx-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/100-map.js)</u>: Javascript that imports an array and computes a new array.
 
-11. Factor index
-
-	100-map.js: Javascript that imports an array and computes a new array.
-
-	Print both the initial list and the new list.
+	- Print both the initial list and the new list.
