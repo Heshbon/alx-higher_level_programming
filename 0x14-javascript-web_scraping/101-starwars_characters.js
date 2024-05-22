@@ -7,7 +7,6 @@ request(url, function (error, response, body) {
     printCharacters(characters, 0);
   }
 });
-
 function printCharacters (characters, index) {
   request(characters[index], function (error, response, body) {
     if (!error) {
