@@ -40,6 +40,8 @@ list of projects are as follows:
 
   + <u>[0x14-javascript-web_scraping](https://github.com/Heshbon/alx-higher_level_programming/tree/master/0x14-javascript-web_scraping)</u>
 
+  + <u>[0x15-javascript-web_jquery](https://github.com/Heshbon/alx-higher_level_programming/tree/master/0x15-javascript-web_jquery)</u>
+
 
 
 # Author ✒️
