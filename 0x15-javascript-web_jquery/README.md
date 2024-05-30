@@ -36,12 +36,12 @@ This project entails utilizing JavaScript and jQuery for front-end development t
 
 # 7. Star wars character
 
-  + <u>[7-script.js]()</u>: JavaScript script that fetches the character name from this URL: https://swapi-api.alx-tools.com/api/people/5/?format=json.
+  + <u>[7-script.js]()</u>: JavaScript script that fetches the character name from this URL: `https://swapi-api.alx-tools.com/api/people/5/?format=json.`
 
 # 8. Star Wars movies
 
-  + <u>[8-script.js]()</u>: JavaScript script that fetches and lists the title for all movies by using this URL: https://swapi-api.alx-tools.com/api/films/?format=json.
+  + <u>[8-script.js]()</u>: JavaScript script that fetches and lists the title for all movies by using this URL: `https://swapi-api.alx-tools.com/api/films/?format=json.`
 
 # 9. Say Hello!
 
-  + <u>[9-script.js]()</u>: JavaScript script that fetches from https://hellosalut.stefanbohacek.dev/?lang=fr and displays the value of hello from that fetch in the HTML tag DIV#hello.
+  + <u>[9-script.js]()</u>: JavaScript script that fetches from `https://hellosalut.stefanbohacek.dev/?lang=fr` and displays the value of hello from that fetch in the HTML tag DIV#hello.
