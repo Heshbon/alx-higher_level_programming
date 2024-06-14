@@ -4,7 +4,7 @@ This project is a part of the Higher level curriculum focusing on Python program
 
 # Background Context
 
-*The project prepared me to tackling larger Python projects, particularly emphasizing on:
+The project prepared me to tackling larger Python projects, particularly emphasizing on:
 
   + Implementing unit tests effectively in large-scale projects.
 
@@ -18,7 +18,7 @@ This project is a part of the Higher level curriculum focusing on Python program
 
 # Resources
 
-*To enhance my understanding and implementation, I referred to the following resources:
+To enhance my understanding and implementation, I referred to the following resources:
 
   +  Documentation and tutorials on *args and **kwargs
   +  Guides on JSON encoder and decoder in Python
@@ -27,7 +27,7 @@ This project is a part of the Higher level curriculum focusing on Python program
 
 # Learning Objectives
 
-+By the end of this project, I was able to explain and apply the following concepts without external assistance:
+By the end of this project, I was able to explain and apply the following concepts without external assistance:
 
   +  The concept and importance of unit testing in software development.
   +  Techniques for serializing and deserializing Python classes
